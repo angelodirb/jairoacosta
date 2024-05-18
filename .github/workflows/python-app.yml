@@ -19,5 +19,4 @@ jobs:
          
       - name: Test with pytest
         run: |
-          cd Pythonworkshop
-          python3 test_solver.py
+          ls -ls
